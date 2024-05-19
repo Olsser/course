@@ -1,2 +1,2 @@
 #Github
-Följer en git-kurs chichichi
+Följer en git/github-kurs chichichi
